@@ -1,0 +1,23 @@
+Instructions on how to obtain and run the program
+-------------------------------------------------------------------------------------------------------------------------------
+1. Downlaod CodingChallenge Repository and configure using eclipse
+
+2. Open Eclipse
+
+3. Click on Import option in File menu
+
+4. Clcik on Existing Projects in Workspace and click on next
+
+5. Select root directory by browsing to downloaded repsoitory 
+
+6. Path would appear like directory_structure/CodingChallenge
+
+7. Click on finsh
+
+8. Project should appear in your package explorer on the left side
+
+9. OPen project and click on src/com.periscope.codingchallenge/Game.java 
+
+10. Right click on the editor and choose option Run As -> Java Application
+
+11. Output should be visible on console
